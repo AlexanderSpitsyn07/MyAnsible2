@@ -4,3 +4,4 @@ elasticsearch:
     localhost:
       ansible_connection: ssh
       ansible_user: root
+      
